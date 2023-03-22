@@ -1,0 +1,45 @@
+body{
+    background-color: aquamarine;
+    font-family: 'poppins',sans-serif;
+
+}
+.blog-writer{
+    font-family: Arial;
+    margin-top: 20px;
+    padding-left: 30px;
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 20px;
+}
+img{
+    margin-top: 20px;
+    padding-left: 30px;
+
+}
+.blog-content{
+    margin-top: 50px;
+    margin-bottom: 200px;
+    padding-left: 30px;
+
+}
+hr{
+    width: 60%;
+    margin-left: 0;
+}
+.blog-container{
+    width: 60%;
+    background-color: rgb(240, 255, 254);
+}
+.blog-title{
+    font-family: Arial;
+    padding-top: 30px;
+    padding-left: 30px;
+    font-size:25px;
+    
+
+
+}
+span{
+    font-family: Arial;
+    margin-left: 50px;
+}
